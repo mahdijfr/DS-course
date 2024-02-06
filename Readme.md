@@ -1,0 +1,1 @@
+# These files are from the course data structres and itro to algorithm which I done in Amirkabir university (two lecturers firs(S1 & S2) by Dr.Akbari and the rest by Dr.ShiraliShahreza)
